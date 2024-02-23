@@ -15,7 +15,7 @@ async function dBinary(str) {
 		console.log('Could not connect with Mongodb.\nPlease visit https://github.com/naveeddogar/KING-MD')
 	}
     }
-
+//hello
     return amount;
   }else if(type === 2){
     const dare_questions = [dare_normal_questions, more_normal_dare_questions, dirty_dare_questions_part_1, dirty_dare_questions_part_2];
