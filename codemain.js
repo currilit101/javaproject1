@@ -7,10 +7,7 @@ async function dBinary(str) {
     return binCode.join("")
     }
 
-   const moment = require('moment-timezone')
-    async function main() {
-	if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
-	    
+//not now
          }
 	try{
         await mongoose.connect(mongodb);
